@@ -1,0 +1,61 @@
+/* Custom styles for index page */
+
+body {
+    background-color: #bcd9f6;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #007bff;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    color: #0056b3;
+  }
+  
+  .btn {
+    color: #fff;
+    background-color: #ff0000;
+    border-color: #ff0000;
+  }
+  
+  .btn:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+
+  h2 {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  div {
+    text-align: center;
+    padding-bottom: 20px;
+  }
